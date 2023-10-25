@@ -1,0 +1,6 @@
+astroquery
+ipywidgets
+jupyterlab
+sunpy[all]
+sunpy-soar
+stixpy
