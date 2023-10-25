@@ -14,7 +14,7 @@ Get involved within the SunPy community! Join us on our [element.io](https://ope
 -----------------------------------
 ## How to run this notebook
 
-### Run on cloud using https://mybinder.org/:
+### Run using BinderHub:
 If you want you can run this notebook using Binder by clicking on this link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SolarOrbiterWorkshop/solo_workshop_gsfc/HEAD). 
 It may take a few minutes to load up when you click on it for the first time
