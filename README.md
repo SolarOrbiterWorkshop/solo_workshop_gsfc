@@ -9,13 +9,26 @@
 
 This notebook serves as an overview of the sunpy core library to highlight some of the functionality it provides and how it can be used within a scientific workflow with coordinated Solar Orbiter observations. 
 
-Please get involved within the SunPy community! Join us on our [element.io](https://openastronomy.element.io/#/room/#sunpy:openastronomy.org) chat channel, [discourse](https://community.openastronomy.org/c/sunpy/5) 
+Get involved within the SunPy community! Join us on our [element.io](https://openastronomy.element.io/#/room/#sunpy:openastronomy.org) chat channel, [discourse](https://community.openastronomy.org/c/sunpy/5) 
 
 -----------------------------------
 ## How to run this notebook
 
-To run this notebook locally, we suggest that you create a new conda environement using the `environment.yml` file in this repository.
+### Run on cloud using https://mybinder.org/:
+If you want you can run this notebook using Binder by clicking on this link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SolarOrbiterWorkshop/solo_workshop_gsfc/HEAD). 
+It may take a few minutes to load up when you click on it for the first time
 
+### Run locally
+
+To run this notebook locally, we suggest that you create a new conda environement using the `environment.yml` file in this repository.
+This can be done by first clone this repository i.e. `git clone https://github.com/SolarOrbiterWorkshop/solo_workshop_gsfc.git` and then creating a new environment as such:
+
+```
+$ conda env create -f environment.yml
+$ conda activate solo_tutorial_gsfc
+$ jupyter lab
+```
 
 -----------------------------------
 ## Resources
