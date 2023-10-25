@@ -7,7 +7,7 @@
 <img src="./images/sunpy_logo.png" width="500" align="left"/>
 </div>
 
-This notebook serves as an overview of the sunpy core library to highlight some of the functionality it provides and how it can be used within a scientific workflow with coordinated Solar Orbiter observations. 
+This notebook provides demonstrates how to use the SunPy ecosystem to access Solar Orbiter data and perform a scientific workflow with Solar Orbiter observations. 
 
 Get involved within the SunPy community! Join us on our [element.io](https://openastronomy.element.io/#/room/#sunpy:openastronomy.org) chat channel, [discourse](https://community.openastronomy.org/c/sunpy/5) 
 
