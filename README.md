@@ -1,6 +1,7 @@
 
-#  Working with Solar Orbiter data within the SunPy ecosystem
- Given at the Parker Heliophysics Scholars Meeting
+# Solar Orbiter Data Analysis within SunPy Ecosystem
+## A tutorial at the Solar Orbiter Workshop at GSFC 25 Oct 2023
+
 
 <div>
 <img src="./images/sunpy_logo.png" width="500" align="left"/>
@@ -10,6 +11,10 @@ This notebook serves as an overview of the sunpy core library to highlight some 
 
 Please get involved within the SunPy community! Join us on our [element.io](https://openastronomy.element.io/#/room/#sunpy:openastronomy.org) chat channel, [discourse](https://community.openastronomy.org/c/sunpy/5) 
 
+-----------------------------------
+## How to run this notebook
+
+To run this notebook locally, we suggest that you create a new conda environement using the `environment.yml` file in this repository.
 
 
 -----------------------------------
