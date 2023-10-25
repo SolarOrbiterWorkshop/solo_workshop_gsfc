@@ -13,6 +13,7 @@ Get involved within the SunPy community! Join us on our [element.io](https://ope
 
 -----------------------------------
 ## How to run this notebook
+The notebook is provided is in this repository - called  [`solo_workshop_gsfc_tutorial_oct2023.ipynb`](https://github.com/SolarOrbiterWorkshop/solo_workshop_gsfc/blob/main/solo_workshop_gsfc_tutorial_oct2023.ipynb)
 
 ### Run using BinderHub:
 If you want you can run this notebook using Binder by clicking on this link:
