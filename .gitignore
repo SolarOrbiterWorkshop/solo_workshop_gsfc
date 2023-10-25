@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# files
+*.cdf
+*.fits
+*.mp4
+
 # Distribution / packaging
 .Python
 build/
